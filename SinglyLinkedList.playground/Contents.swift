@@ -5,7 +5,7 @@
  like a container, containing a value and the reference to the next node, it don't
  have index and to find a node you have to traverse all the nodes, in singly linked list
  you just can go forward without the reference to the previous node it is lost.
- insetion and deletion on linked list are constant operaitons so basically O(1).
+ insertion and deletion on linked list are constant operaitons so basically O(1).
  
 */
 
